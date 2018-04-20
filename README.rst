@@ -1,4 +1,4 @@
-FBCleaner v1.0.2
+FBCleaner v1.0.3
 ================
 
 .. image:: https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.0-9/30726427_820468198162105_6004097747022512128_n.jpg?_nc_cat=0&oh=b64a2323e8fcd83a1a4a7c04595146ff&oe=5B289222
